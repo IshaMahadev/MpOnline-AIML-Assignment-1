@@ -9,7 +9,7 @@
 
 **Batch Number:** 1A
 
-**Email ID:** isha.23bce10163@vitbhopal.ac.in
+**Email ID:** ishamahadev2019@gmail.com
 
 ## Objective
 
