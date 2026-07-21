@@ -1,15 +1,15 @@
 # Medical Insurance Cost Prediction using Multiple Linear Regression
 
 
-**Author:** Arnav Tripathi 
+**Author:** Isha Mahadev
 
-**Registration Number:** 23BCE10756
+**Registration Number:** 23BCE10163
 
-**Application Number:** IN26011416
+**Application Number:** IN26011911
 
-**Batch Number:** 2B
+**Batch Number:** 1A
 
-**Email ID:** arnav.23bce10756@vitbhopal.ac.in
+**Email ID:** isha.23bce10163@vitbhopal.ac.in
 
 ## Objective
 
